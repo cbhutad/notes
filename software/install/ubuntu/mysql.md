@@ -76,7 +76,7 @@ sudo systemctl start mysql.service
 
 ## Step8
 
-Try to login as the root user using the password setup done in [Step6](##Step6)
+Try to login as the root user using the password setup done in [Step6](#Step6)
 
 ``` bash
 mysql -u root -p
